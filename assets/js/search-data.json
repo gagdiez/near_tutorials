@@ -2,565 +2,565 @@
     "doc": "Welcome",
     "title": "Welcome",
     "content": "If you are reading this, you are probably thinking about developing a smartcontract in the NEAR blockchain. Well, you have come to the right place. This website will guide you through all the steps needed, from developing to testing and deploying a contract. And even if you are a more advance user, you can still find important information such as how to perform unit and integration testing, as well as how to securely perform cross-contract comunications. Smartcontracts in the NEAR ecosystem are writen in either the assemblyscript or Rust language. While it is not necessary to be an expert in either language, we will assume you have a basic knowledge of at least one of them. If you never used any of them we recommend you to start here with Rust and here with assemblyscript. Remember, you don’t need to be an expert, you just need to understand enough to be able to follow along the tutorial. ",
-    "url": "http://localhost:4000/near_tutorials/",
+    "url": "https://gagdiez.github.io/near_tutorials/",
     "relUrl": "/"
   },"1": {
     "doc": "3. Cross-Contract Calls",
     "title": "Interacting with Other Contracts",
     "content": "As in other platforms, it is very likely that when developing a contract you will want to interact with other already-deployed contracts. For example, you might be interested in query information, execute a function somewhere else, stake money, etc. ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/0.cross_calls/#interacting-with-other-contracts",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/0.cross_calls/#interacting-with-other-contracts",
     "relUrl": "/docs/cross_contract/0.cross_calls/#interacting-with-other-contracts"
   },"2": {
     "doc": "3. Cross-Contract Calls",
     "title": "3. Cross-Contract Calls",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/0.cross_calls/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/0.cross_calls/",
     "relUrl": "/docs/cross_contract/0.cross_calls/"
   },"3": {
     "doc": "Basic Interaction",
     "title": "Talking to other Contracts",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/1.shoot_and_go/#talking-to-other-contracts",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/1.shoot_and_go/#talking-to-other-contracts",
     "relUrl": "/docs/cross_contract/1.shoot_and_go/#talking-to-other-contracts"
   },"4": {
     "doc": "Basic Interaction",
     "title": "Table of contents",
     "content": ". | Sending data to contract | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/1.shoot_and_go/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/1.shoot_and_go/#table-of-contents",
     "relUrl": "/docs/cross_contract/1.shoot_and_go/#table-of-contents"
   },"5": {
     "doc": "Basic Interaction",
     "title": "Sending data to contract",
     "content": "Explain how to send data to another contract by creating a promise and dispatching it . ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/1.shoot_and_go/#sending-data-to-contract",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/1.shoot_and_go/#sending-data-to-contract",
     "relUrl": "/docs/cross_contract/1.shoot_and_go/#sending-data-to-contract"
   },"6": {
     "doc": "Basic Interaction",
     "title": "Basic Interaction",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/1.shoot_and_go/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/1.shoot_and_go/",
     "relUrl": "/docs/cross_contract/1.shoot_and_go/"
   },"7": {
     "doc": "Getting Information",
     "title": "Getting Information Back",
     "content": "Calling methods in a contract is usefull, but how do we get an answer back? Explain it here. ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/2.interaction/#getting-information-back",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/2.interaction/#getting-information-back",
     "relUrl": "/docs/cross_contract/2.interaction/#getting-information-back"
   },"8": {
     "doc": "Getting Information",
     "title": "Table of contents",
     "content": ". | Response | Returning Immediately | Retuning After callback | Security | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/2.interaction/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/2.interaction/#table-of-contents",
     "relUrl": "/docs/cross_contract/2.interaction/#table-of-contents"
   },"9": {
     "doc": "Getting Information",
     "title": "Response",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/2.interaction/#response",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/2.interaction/#response",
     "relUrl": "/docs/cross_contract/2.interaction/#response"
   },"10": {
     "doc": "Getting Information",
     "title": "Returning Immediately",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/2.interaction/#returning-immediately",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/2.interaction/#returning-immediately",
     "relUrl": "/docs/cross_contract/2.interaction/#returning-immediately"
   },"11": {
     "doc": "Getting Information",
     "title": "Retuning After callback",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/2.interaction/#retuning-after-callback",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/2.interaction/#retuning-after-callback",
     "relUrl": "/docs/cross_contract/2.interaction/#retuning-after-callback"
   },"12": {
     "doc": "Getting Information",
     "title": "Security",
     "content": "Please read next section!!! . ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/2.interaction/#security",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/2.interaction/#security",
     "relUrl": "/docs/cross_contract/2.interaction/#security"
   },"13": {
     "doc": "Getting Information",
     "title": "Getting Information",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/cross_contract/2.interaction/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/cross_contract/2.interaction/",
     "relUrl": "/docs/cross_contract/2.interaction/"
   },"14": {
     "doc": "2. Development",
     "title": "Notes on Developing a Contract",
     "content": "Here we analyze a smart contract, its anatomy, its context, how it handles money, etc. ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/0.development/#notes-on-developing-a-contract",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/0.development/#notes-on-developing-a-contract",
     "relUrl": "/docs/development/0.development/#notes-on-developing-a-contract"
   },"15": {
     "doc": "2. Development",
     "title": "Table of contents",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/0.development/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/0.development/#table-of-contents",
     "relUrl": "/docs/development/0.development/#table-of-contents"
   },"16": {
     "doc": "2. Development",
     "title": "2. Development",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/0.development/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/0.development/",
     "relUrl": "/docs/development/0.development/"
   },"17": {
     "doc": "Anatomy of a Contract",
     "title": "Anatomy of a Contract",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/2.anatomy/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/2.anatomy/",
     "relUrl": "/docs/development/2.anatomy/"
   },"18": {
     "doc": "Anatomy of a Contract",
     "title": "Table of contents",
     "content": ". | Know your contract | Imports | Exposed Methods | Private Methods | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/2.anatomy/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/2.anatomy/#table-of-contents",
     "relUrl": "/docs/development/2.anatomy/#table-of-contents"
   },"19": {
     "doc": "Anatomy of a Contract",
     "title": "Know your contract",
     "content": "Here I want to explain what are public and private funcions basically, as well as imports and tests . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/2.anatomy/#know-your-contract",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/2.anatomy/#know-your-contract",
     "relUrl": "/docs/development/2.anatomy/#know-your-contract"
   },"20": {
     "doc": "Anatomy of a Contract",
     "title": "Imports",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/2.anatomy/#imports",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/2.anatomy/#imports",
     "relUrl": "/docs/development/2.anatomy/#imports"
   },"21": {
     "doc": "Anatomy of a Contract",
     "title": "Exposed Methods",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/2.anatomy/#exposed-methods",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/2.anatomy/#exposed-methods",
     "relUrl": "/docs/development/2.anatomy/#exposed-methods"
   },"22": {
     "doc": "Anatomy of a Contract",
     "title": "Private Methods",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/2.anatomy/#private-methods",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/2.anatomy/#private-methods",
     "relUrl": "/docs/development/2.anatomy/#private-methods"
   },"23": {
     "doc": "Execution Environment",
     "title": "Context of a Smart Contract",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#context-of-a-smart-contract",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#context-of-a-smart-contract",
     "relUrl": "/docs/development/3.important_concepts/#context-of-a-smart-contract"
   },"24": {
     "doc": "Execution Environment",
     "title": "Table of contents",
     "content": ". | What a Context . | Contract Name | Signer | Predecesor | Block Height | Block Timestamp (Environment) | GAS | . | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#table-of-contents",
     "relUrl": "/docs/development/3.important_concepts/#table-of-contents"
   },"25": {
     "doc": "Execution Environment",
     "title": "What a Context",
     "content": "When someone calls a method in your smart contract, the execution happens within a Context. Such context includes information such as: how much computational resources are available, who evoqued your method, how much money there is attached, etc. Understanding the context and how to access it very important . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#what-a-context",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#what-a-context",
     "relUrl": "/docs/development/3.important_concepts/#what-a-context"
   },"26": {
     "doc": "Execution Environment",
     "title": "Contract Name",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#contract-name",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#contract-name",
     "relUrl": "/docs/development/3.important_concepts/#contract-name"
   },"27": {
     "doc": "Execution Environment",
     "title": "Signer",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#signer",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#signer",
     "relUrl": "/docs/development/3.important_concepts/#signer"
   },"28": {
     "doc": "Execution Environment",
     "title": "Predecesor",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#predecesor",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#predecesor",
     "relUrl": "/docs/development/3.important_concepts/#predecesor"
   },"29": {
     "doc": "Execution Environment",
     "title": "Block Height",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#block-height",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#block-height",
     "relUrl": "/docs/development/3.important_concepts/#block-height"
   },"30": {
     "doc": "Execution Environment",
     "title": "Block Timestamp (Environment)",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#block-timestamp-environment",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#block-timestamp-environment",
     "relUrl": "/docs/development/3.important_concepts/#block-timestamp-environment"
   },"31": {
     "doc": "Execution Environment",
     "title": "GAS",
     "content": "As with every other piece of software, your contract is a collection of instruction which are executed in sequence. When working on a smartcontract, each operations consumes what is know as GAS. ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/#gas",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/#gas",
     "relUrl": "/docs/development/3.important_concepts/#gas"
   },"32": {
     "doc": "Execution Environment",
     "title": "Execution Environment",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/3.important_concepts/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/3.important_concepts/",
     "relUrl": "/docs/development/3.important_concepts/"
   },"33": {
     "doc": "Storing Data",
     "title": "Storage",
     "content": "As in every app, you might want to persist some information on your smart contract. For this, the NEAR SDK implements a variety of structures that can readily simplify your life. Explain each type, explain they can support objects as well as simple types . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/4.structures/#storage",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/4.structures/#storage",
     "relUrl": "/docs/development/4.structures/#storage"
   },"34": {
     "doc": "Storing Data",
     "title": "Storage",
     "content": "In AS we will need to explain storage.set(), storage.get() and storage.getSome() . Assemblyscript logging.log(\"Example in typescript\") . Rust println!(\"Example in RUST\") . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/4.structures/#storage-1",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/4.structures/#storage-1",
     "relUrl": "/docs/development/4.structures/#storage-1"
   },"35": {
     "doc": "Storing Data",
     "title": "PersistentMap",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/4.structures/#persistentmap",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/4.structures/#persistentmap",
     "relUrl": "/docs/development/4.structures/#persistentmap"
   },"36": {
     "doc": "Storing Data",
     "title": "PersistentVector",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/4.structures/#persistentvector",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/4.structures/#persistentvector",
     "relUrl": "/docs/development/4.structures/#persistentvector"
   },"37": {
     "doc": "Storing Data",
     "title": "PersistentDeque",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/4.structures/#persistentdeque",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/4.structures/#persistentdeque",
     "relUrl": "/docs/development/4.structures/#persistentdeque"
   },"38": {
     "doc": "Storing Data",
     "title": "Storing Data",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/4.structures/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/4.structures/",
     "relUrl": "/docs/development/4.structures/"
   },"39": {
     "doc": "Handling Money",
     "title": "Lets talk about money",
     "content": "This chapter is mostly to raise awareness on how to handle money. ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/5.money/#lets-talk-about-money",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/5.money/#lets-talk-about-money",
     "relUrl": "/docs/development/5.money/#lets-talk-about-money"
   },"40": {
     "doc": "Handling Money",
     "title": "Table of contents",
     "content": ". | Receiving Money in the Contract | Sending Money from your Contract | Other tokens?????? | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/5.money/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/5.money/#table-of-contents",
     "relUrl": "/docs/development/5.money/#table-of-contents"
   },"41": {
     "doc": "Handling Money",
     "title": "Receiving Money in the Contract",
     "content": "Talk about the attached money. Differences in Rust and AS ([#payable]). Being carefull with it. Explain it goes back on ERROR, but after the method finishes it is yours . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/5.money/#receiving-money-in-the-contract",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/5.money/#receiving-money-in-the-contract",
     "relUrl": "/docs/development/5.money/#receiving-money-in-the-contract"
   },"42": {
     "doc": "Handling Money",
     "title": "Sending Money from your Contract",
     "content": "Explain how to make transfers from smartcontracts. Explain they should always work? . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/5.money/#sending-money-from-your-contract",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/5.money/#sending-money-from-your-contract",
     "relUrl": "/docs/development/5.money/#sending-money-from-your-contract"
   },"43": {
     "doc": "Handling Money",
     "title": "Other tokens??????",
     "content": "Maybe we should explain what is NEF141, ft_balance, ft_transfer???? . ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/5.money/#other-tokens",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/5.money/#other-tokens",
     "relUrl": "/docs/development/5.money/#other-tokens"
   },"44": {
     "doc": "Handling Money",
     "title": "Handling Money",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/development/5.money/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/development/5.money/",
     "relUrl": "/docs/development/5.money/"
   },"45": {
     "doc": "1. Introduction",
     "title": "Introduction",
     "content": "In this first chapter we will introduce the concept of smart contracts and explains the tools that you can use to create one. We will guide you step by step on the creation of your first smart contract. ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/0.start/#introduction",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/0.start/#introduction",
     "relUrl": "/docs/intro/0.start/#introduction"
   },"46": {
     "doc": "1. Introduction",
     "title": "1. Introduction",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/0.start/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/0.start/",
     "relUrl": "/docs/intro/0.start/"
   },"47": {
     "doc": "What is a Smart Contract",
     "title": "What is a smart contract",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/#what-is-a-smart-contract",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/#what-is-a-smart-contract",
     "relUrl": "/docs/intro/1.devs_perspective/#what-is-a-smart-contract"
   },"48": {
     "doc": "What is a Smart Contract",
     "title": "Table of contents",
     "content": ". | Smart Contracts from a Devs Perspective | Writting a Smartcontract in NEAR . | Rust | Assemblyscript | . | Interacting with Smart Contracts | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/#table-of-contents",
     "relUrl": "/docs/intro/1.devs_perspective/#table-of-contents"
   },"49": {
     "doc": "What is a Smart Contract",
     "title": "Smart Contracts from a Devs Perspective",
     "content": "A smart contract ain’t nothing more that a program stored on a blockchain. As any piece of modern software it is composed by public and private functions that interact with eachother in order to accomplish a task. They are written in human readable languages, and then compiled and deployed (stored) to a blockchain. Living in a blockchain has its perks (insert goodness of blockchain here). While knowing how a blockchain works can be useful, it is not actually necesary that you know every detail. As programers, we can simply abstract away the underlying complexity. For us it is sufficient to understand that we will be writting apps that execute in an environment with nice advantages but important contraints: . | Computational resources are much more limited than on a consumers PC. Forget about iterating an array of thousands of entries. Data structures are your friends. | Interactions with other apps (other smartcontracts) are asynchronous and independent. This means that once your contract called another one, its execution finished. If there is a return, you will have to handle it as a new call to your smart contract. | We will be dealing with real money, so security must be our top concern. You don’t want the user’s money to get lost or locked. At the same time, you want to avoid losing all your money in storage. Don’t worry, we have a whole section about this. | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/#smart-contracts-from-a-devs-perspective",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/#smart-contracts-from-a-devs-perspective",
     "relUrl": "/docs/intro/1.devs_perspective/#smart-contracts-from-a-devs-perspective"
   },"50": {
     "doc": "What is a Smart Contract",
     "title": "Writting a Smartcontract in NEAR",
     "content": "The NEAR ecosystem uses two languages: Rust and Assemblyscript. ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/#writting-a-smartcontract-in-near",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/#writting-a-smartcontract-in-near",
     "relUrl": "/docs/intro/1.devs_perspective/#writting-a-smartcontract-in-near"
   },"51": {
     "doc": "What is a Smart Contract",
     "title": "Rust",
     "content": "Brief description. Pros and Cons. Contracts that use rust. ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/#rust",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/#rust",
     "relUrl": "/docs/intro/1.devs_perspective/#rust"
   },"52": {
     "doc": "What is a Smart Contract",
     "title": "Assemblyscript",
     "content": "Brief description. Pros and Cons. Contracts that use AS. ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/#assemblyscript",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/#assemblyscript",
     "relUrl": "/docs/intro/1.devs_perspective/#assemblyscript"
   },"53": {
     "doc": "What is a Smart Contract",
     "title": "Interacting with Smart Contracts",
     "content": "Each smart contract is assinged an address in the blockchain and exposes a set of public methods. Therefore, when interacting with a smart contract, you can think of it as a service that exposes an API. By calling their methods with arguments, the smart contract will execute its code and return a result (which could be null) or fail. In the near platform you can do this through the near CLI, by the near-sdk in Rust or Assemblyscript, or by the near-api in javascript. The near CLI allows you to… and it is aimed to this kind of users. The near-sdk is for developers of smart-contracts. The near-api in javascript allows you to treat the smart-contract as a (limited) backend for a js app. ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/#interacting-with-smart-contracts",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/#interacting-with-smart-contracts",
     "relUrl": "/docs/intro/1.devs_perspective/#interacting-with-smart-contracts"
   },"54": {
     "doc": "What is a Smart Contract",
     "title": "What is a Smart Contract",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/1.devs_perspective/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/1.devs_perspective/",
     "relUrl": "/docs/intro/1.devs_perspective/"
   },"55": {
     "doc": "Creating a Smart Contract",
     "title": "Hello world",
     "content": "In this tutorial we will guide you to create your first smartcontract, and show you how to interact with it . ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/#hello-world",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/#hello-world",
     "relUrl": "/docs/intro/2.hello_world/#hello-world"
   },"56": {
     "doc": "Creating a Smart Contract",
     "title": "Table of contents",
     "content": ". | Create the Project | Compile | Test | Deploy | Interact With | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/#table-of-contents",
     "relUrl": "/docs/intro/2.hello_world/#table-of-contents"
   },"57": {
     "doc": "Creating a Smart Contract",
     "title": "Create the Project",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/#create-the-project",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/#create-the-project",
     "relUrl": "/docs/intro/2.hello_world/#create-the-project"
   },"58": {
     "doc": "Creating a Smart Contract",
     "title": "Compile",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/#compile",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/#compile",
     "relUrl": "/docs/intro/2.hello_world/#compile"
   },"59": {
     "doc": "Creating a Smart Contract",
     "title": "Test",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/#test",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/#test",
     "relUrl": "/docs/intro/2.hello_world/#test"
   },"60": {
     "doc": "Creating a Smart Contract",
     "title": "Deploy",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/#deploy",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/#deploy",
     "relUrl": "/docs/intro/2.hello_world/#deploy"
   },"61": {
     "doc": "Creating a Smart Contract",
     "title": "Interact With",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/#interact-with",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/#interact-with",
     "relUrl": "/docs/intro/2.hello_world/#interact-with"
   },"62": {
     "doc": "Creating a Smart Contract",
     "title": "Creating a Smart Contract",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/intro/2.hello_world/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/intro/2.hello_world/",
     "relUrl": "/docs/intro/2.hello_world/"
   },"63": {
     "doc": "Security",
     "title": "Keeping our Contract and our Users Safe",
     "content": "We are dealing with real money, so we gotta be careful. Here we explain async attacks (reentrancy attacks), returning the money on fail, storage problems . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/0.security/#keeping-our-contract-and-our-users-safe",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/0.security/#keeping-our-contract-and-our-users-safe",
     "relUrl": "/docs/security/0.security/#keeping-our-contract-and-our-users-safe"
   },"64": {
     "doc": "Security",
     "title": "Security",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/0.security/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/0.security/",
     "relUrl": "/docs/security/0.security/"
   },"65": {
     "doc": "Safe Callbacks",
     "title": "Safe Callbacks",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/1.check_callback/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/1.check_callback/",
     "relUrl": "/docs/security/1.check_callback/"
   },"66": {
     "doc": "Safe Callbacks",
     "title": "Table of contents",
     "content": ". | Remembering How Cross-Contract Calls Work | Check call was internal | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/1.check_callback/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/1.check_callback/#table-of-contents",
     "relUrl": "/docs/security/1.check_callback/#table-of-contents"
   },"67": {
     "doc": "Safe Callbacks",
     "title": "Remembering How Cross-Contract Calls Work",
     "content": "Explain again how cross-contract calls work . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/1.check_callback/#remembering-how-cross-contract-calls-work",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/1.check_callback/#remembering-how-cross-contract-calls-work",
     "relUrl": "/docs/security/1.check_callback/#remembering-how-cross-contract-calls-work"
   },"68": {
     "doc": "Safe Callbacks",
     "title": "Check call was internal",
     "content": "We want to check that the predecessor is the same as the current contract id . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/1.check_callback/#check-call-was-internal",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/1.check_callback/#check-call-was-internal",
     "relUrl": "/docs/security/1.check_callback/#check-call-was-internal"
   },"69": {
     "doc": "Async Attacks",
     "title": "Async Attacks",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/2.async_attacks/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/2.async_attacks/",
     "relUrl": "/docs/security/2.async_attacks/"
   },"70": {
     "doc": "Async Attacks",
     "title": "Table of contents",
     "content": ". | Remembering How Cross-Contract Calls Work | Async Attacks (aka. Reentrancy) | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/2.async_attacks/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/2.async_attacks/#table-of-contents",
     "relUrl": "/docs/security/2.async_attacks/#table-of-contents"
   },"71": {
     "doc": "Async Attacks",
     "title": "Remembering How Cross-Contract Calls Work",
     "content": "Explain again how cross-contract calls work . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/2.async_attacks/#remembering-how-cross-contract-calls-work",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/2.async_attacks/#remembering-how-cross-contract-calls-work",
     "relUrl": "/docs/security/2.async_attacks/#remembering-how-cross-contract-calls-work"
   },"72": {
     "doc": "Async Attacks",
     "title": "Async Attacks (aka. Reentrancy)",
     "content": "Explain, show examples, etc . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/2.async_attacks/#async-attacks-aka-reentrancy",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/2.async_attacks/#async-attacks-aka-reentrancy",
     "relUrl": "/docs/security/2.async_attacks/#async-attacks-aka-reentrancy"
   },"73": {
     "doc": "Returning Attached Money",
     "title": "Retuning Attached Money on Failure",
     "content": "If someone attached money, you made a call, and on return it failed, you need to return the money to the user . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/3.return_money/#retuning-attached-money-on-failure",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/3.return_money/#retuning-attached-money-on-failure",
     "relUrl": "/docs/security/3.return_money/#retuning-attached-money-on-failure"
   },"74": {
     "doc": "Returning Attached Money",
     "title": "Table of contents",
     "content": ". | Remembering Attached Money | Returning it | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/3.return_money/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/3.return_money/#table-of-contents",
     "relUrl": "/docs/security/3.return_money/#table-of-contents"
   },"75": {
     "doc": "Returning Attached Money",
     "title": "Remembering Attached Money",
     "content": "Users can call your function, then you call another contract and get a callback . ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/3.return_money/#remembering-attached-money",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/3.return_money/#remembering-attached-money",
     "relUrl": "/docs/security/3.return_money/#remembering-attached-money"
   },"76": {
     "doc": "Returning Attached Money",
     "title": "Returning it",
     "content": "Your original function was called with some money attached, and it finished correctly. The money is now yours. If the callback failed, then make sure you have enough gas in the callback to send the money back. ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/3.return_money/#returning-it",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/3.return_money/#returning-it",
     "relUrl": "/docs/security/3.return_money/#returning-it"
   },"77": {
     "doc": "Returning Attached Money",
     "title": "Returning Attached Money",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/security/3.return_money/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/security/3.return_money/",
     "relUrl": "/docs/security/3.return_money/"
   },"78": {
     "doc": "5. Handling Storage",
     "title": "Storing Data has a Cost",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/storage/#storing-data-has-a-cost",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/storage/#storing-data-has-a-cost",
     "relUrl": "/docs/storage/#storing-data-has-a-cost"
   },"79": {
     "doc": "5. Handling Storage",
     "title": "Table of contents",
     "content": ". | Storage Price | Sybil Attack on Storage | . ",
-    "url": "http://localhost:4000/near_tutorials/docs/storage/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/storage/#table-of-contents",
     "relUrl": "/docs/storage/#table-of-contents"
   },"80": {
     "doc": "5. Handling Storage",
     "title": "Storage Price",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/storage/#storage-price",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/storage/#storage-price",
     "relUrl": "/docs/storage/#storage-price"
   },"81": {
     "doc": "5. Handling Storage",
     "title": "Sybil Attack on Storage",
     "content": "If your contract accumulates data per subject, then you could run out of space? . ",
-    "url": "http://localhost:4000/near_tutorials/docs/storage/#sybil-attack-on-storage",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/storage/#sybil-attack-on-storage",
     "relUrl": "/docs/storage/#sybil-attack-on-storage"
   },"82": {
     "doc": "5. Handling Storage",
     "title": "5. Handling Storage",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/storage/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/storage/",
     "relUrl": "/docs/storage/"
   },"83": {
     "doc": "4. Testing",
     "title": "Testing",
     "content": "Explain Unit Test, Integration Test, Simulation? . ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/0.testing/#testing",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/0.testing/#testing",
     "relUrl": "/docs/testing/0.testing/#testing"
   },"84": {
     "doc": "4. Testing",
     "title": "4. Testing",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/0.testing/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/0.testing/",
     "relUrl": "/docs/testing/0.testing/"
   },"85": {
     "doc": "Unit Tests",
     "title": "Unit Testing",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/1.unit/#unit-testing",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/1.unit/#unit-testing",
     "relUrl": "/docs/testing/1.unit/#unit-testing"
   },"86": {
     "doc": "Unit Tests",
     "title": "Table of contents",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/1.unit/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/1.unit/#table-of-contents",
     "relUrl": "/docs/testing/1.unit/#table-of-contents"
   },"87": {
     "doc": "Unit Tests",
     "title": "Unit Tests",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/1.unit/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/1.unit/",
     "relUrl": "/docs/testing/1.unit/"
   },"88": {
     "doc": "Integration Tests",
     "title": "Integration Testing",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/2.integration/#integration-testing",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/2.integration/#integration-testing",
     "relUrl": "/docs/testing/2.integration/#integration-testing"
   },"89": {
     "doc": "Integration Tests",
     "title": "Table of contents",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/2.integration/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/2.integration/#table-of-contents",
     "relUrl": "/docs/testing/2.integration/#table-of-contents"
   },"90": {
     "doc": "Integration Tests",
     "title": "Integration Tests",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/2.integration/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/2.integration/",
     "relUrl": "/docs/testing/2.integration/"
   },"91": {
     "doc": "Simulation",
     "title": "Simulation Testing",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/3.simulator/#simulation-testing",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/3.simulator/#simulation-testing",
     "relUrl": "/docs/testing/3.simulator/#simulation-testing"
   },"92": {
     "doc": "Simulation",
     "title": "Table of contents",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/3.simulator/#table-of-contents",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/3.simulator/#table-of-contents",
     "relUrl": "/docs/testing/3.simulator/#table-of-contents"
   },"93": {
     "doc": "Simulation",
     "title": "Simulation",
     "content": " ",
-    "url": "http://localhost:4000/near_tutorials/docs/testing/3.simulator/",
+    "url": "https://gagdiez.github.io/near_tutorials/docs/testing/3.simulator/",
     "relUrl": "/docs/testing/3.simulator/"
   }
 }
