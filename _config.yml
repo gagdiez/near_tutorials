@@ -1,8 +1,8 @@
 title: NEAR Documentation
 email: gagdiez.c@gmail.com
 description: A complete tutorial on developing NEAR smartcontracts
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/near_tutorials" # the subpath of your site, e.g. /blog
+url: "https://gagdiez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gagdiez
 github_username:  gagdiez
 
